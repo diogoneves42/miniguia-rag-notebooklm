@@ -155,19 +155,3 @@ miniguia-rag-notebooklm/
 └── docs/
     └── entrega-dio.md
 ```
-
-## Como usar este material no NotebookLM
-
-1. Criar um novo notebook com o tema `Fundamentos de RAG`.
-2. Adicionar as 5 fontes listadas acima.
-3. Executar os prompts da seção de engenharia de prompts.
-4. Refinar as perguntas até obter respostas mais curtas, comparativas e citáveis.
-5. Consolidar a revisão final com base no miniguia deste repositório.
-
-## Entrega na DIO
-
-O texto sugerido para a descrição da entrega está em [docs/entrega-dio.md](docs/entrega-dio.md).
-
-Se quiser publicar este projeto como portfólio técnico, uma boa descrição curta é:
-
-> Caderno temático sobre Retrieval-Augmented Generation (RAG), com curadoria de fontes abertas, registro de prompts, troubleshooting e miniguia final de revisão para IA generativa.
